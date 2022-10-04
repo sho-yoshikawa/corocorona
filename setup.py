@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="corocorona", # Replace with your own username
+    name="corocorona",
     version="0.0.1",
     install_requires=[
         "requests",
@@ -19,7 +19,7 @@ setuptools.setup(
     description="A covoid-19 tracker",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/sho-yoshikawa/corocorona"
+    url="https://github.com/sho-yoshikawa/corocorona",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
