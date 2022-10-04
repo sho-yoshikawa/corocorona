@@ -19,7 +19,7 @@ setuptools.setup(
     description="A covoid-19 tracker",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=
+    url="https://github.com/sho-yoshikawa/corocorona"
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
