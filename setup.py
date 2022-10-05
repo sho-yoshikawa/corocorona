@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="corocorona",
-    version="0.0.2",
+    version="0.0.7",
     install_requires=[
         "requests",
     ],
     entry_points={
         'console_scripts': [
-            'corona=corona:main',
+            'corona=corona:printCorona',
         ],
     },
     author="syoshika",
@@ -26,5 +26,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.9',
 )

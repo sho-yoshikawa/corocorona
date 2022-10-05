@@ -7,4 +7,4 @@ corocorona.egg-info/entry_points.txt
 corocorona.egg-info/requires.txt
 corocorona.egg-info/top_level.txt
 corona/__init__.py
-corona/corona.py
+corona/app.py

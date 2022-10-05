@@ -1,1 +1,1 @@
-from corona import *
+from corona.app import printCorona

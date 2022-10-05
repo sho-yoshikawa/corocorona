@@ -1,2 +1,2 @@
 [console_scripts]
-corona = corona:main
+corona = corona:printCorona
