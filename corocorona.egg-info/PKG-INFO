@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: corocorona
-Version: 0.0.7
-Summary: A covoid-19 tracker
+Version: 0.0.8
+Summary: A covoid-19 in Japan
 Home-page: https://github.com/sho-yoshikawa/corocorona
 Author: syoshika
 Author-email: syoshika@student.42tokyo.jp
@@ -35,7 +35,7 @@ pip install corocorona
 ### How to use
 
 ```
-from corona import corocorona
+from printCorona import corona
 printCorona()
 ```
 

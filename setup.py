@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="corocorona",
-    version="0.0.7",
+    version="0.0.8",
     install_requires=[
         "requests",
     ],
@@ -16,7 +16,7 @@ setuptools.setup(
     },
     author="syoshika",
     author_email="syoshika@student.42tokyo.jp",
-    description="A covoid-19 tracker",
+    description="A covoid-19 in Japan",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/sho-yoshikawa/corocorona",
