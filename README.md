@@ -22,7 +22,7 @@ pip install corocorona
 ### How to use
 
 ```
-from corona import corocorona
+from printCorona import corona
 printCorona()
 ```
 
