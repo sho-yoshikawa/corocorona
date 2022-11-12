@@ -1,5 +1,3 @@
 rm -rf *.egg* dist 
-source /Users/sho/opt/anaconda3/envs/corocorona
-python setup.py sdist bdist_wheel
-python -m twine upload dist/*
-conda deactivate
+/Users/sho/opt/anaconda3/envs/corocorona/bin/python setup.py sdist bdist_wheel
+/Users/sho/opt/anaconda3/envs/corocorona/bin/python -m twine upload dist/*

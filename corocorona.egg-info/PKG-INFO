@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: corocorona
-Version: 0.0.9
+Version: 0.1.0
 Summary: A covoid-19 in Japan
 Home-page: https://github.com/sho-yoshikawa/corocorona
 Author: syoshika
@@ -37,6 +37,7 @@ pip install corocorona
 ```
 from printCorona import corona
 printCorona()
+printCorona("埼玉県")
 ```
 
 ### Display

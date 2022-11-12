@@ -24,6 +24,7 @@ pip install corocorona
 ```
 from printCorona import corona
 printCorona()
+printCorona("埼玉県")
 ```
 
 ### Display
