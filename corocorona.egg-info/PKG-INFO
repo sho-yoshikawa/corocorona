@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: corocorona
-Version: 0.0.8
+Version: 0.0.9
 Summary: A covoid-19 in Japan
 Home-page: https://github.com/sho-yoshikawa/corocorona
 Author: syoshika
@@ -38,6 +38,16 @@ pip install corocorona
 from printCorona import corona
 printCorona()
 ```
+
+### Display
+
+[東京都]
+累計感染者数： 3,343,691
+(最終更新日：2022-11-11)
+
+[埼玉県]
+累計感染者数： 1,275,759
+(最終更新日：2022-11-11)
 
 ## Authors
 
